@@ -8,7 +8,7 @@
 * [Referências](#referências-←→)
 * [Autores](#autores-←→)
 
-# Imagens do pojeto 📑
+# Imagens do projeto 📑
 
 ![login](https://github.com/Evellincruz/tela_login.v2/assets/140835668/38fcf2b4-2187-4473-9a8c-abe845fde4e2)<br>
 
